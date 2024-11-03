@@ -14,6 +14,15 @@
   - [ ] 6 Mistlands + The Queen
   - [ ] 8 Ashlands + Fader
   - [ ] 1 Ocean
+- [ ] Dressing Room
+  - [ ] 8 Capes - REWARD 9th Display only cape
+  - [ ] Rag/Leather
+  - [ ] Troll/Bronze
+  - [ ] Root/Iron
+  - [ ] Fenris/Wolf
+  - [ ] Padded
+  - [ ] Eitr-weave/Carapace
+  - [ ] Embla/Ask/Flametal
 
 ## Group
 - [ ] Defeat Forsaken
