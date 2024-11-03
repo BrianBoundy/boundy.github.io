@@ -26,7 +26,7 @@
 
 [//]: :white_check_mark: 
 
-## Group
+## World
 - [ ] Defeat Forsaken
   - :black_square_button:Eikthyr :black_square_button:The Elder :black_square_button:Bonemass :black_square_button:Moder :black_square_button:Yagluth :black_square_button:The Queen :black_square_button:Fader
 - [ ] Hildir's Quests
@@ -61,27 +61,28 @@
 
 
 
-[//]:
-[//]:flowchart LR;
-[//]:    FB{Fishing Bait}-->Perch;
-[//]:    FB{Fishing Bait}-->Pike;
-[//]:    FB -- "Sepent" --> HB;
-[//]:    HB{Heavy}-->Tuna;
-[//]:    HB{Heavy}-->Coral[Coral Cod];
-[//]:    FB -- "Troll" --> Mossy;
-[//]:    Mossy{Mossy}-->Trollfish;
-[//]:    FB -- "Abomination" --> Sticky;
-[//]:    Sticky{Sticky}-->Herring[Giant Herring];
-[//]:    FB -- "Fenring" --> Cold;
-[//]:    Cold{Cold}-->Tetra;
-[//]:    FB -- "Fuling" --> Stingy;
-[//]:    Stingy{Stingy}-->Grouper;
-[//]:    FB -- "Lox" --> Misty;
-[//]:    Misty{Misty}-->Pufferfish;
-[//]:    Misty{Misty}-->Anglerfish;
-[//]:    FB -- "Surtling" --> Hot;
-[//]:    Hot{Hot}-->Magmafish;
-[//]:    FB -- "Drake" --> Frosty;
-[//]:    Frosty{Frosty}-->North[Northern Salmon];
+```mermaid
+flowchart LR;
+    FB{Fishing Bait}-->Perch;
+    FB{Fishing Bait}-->Pike;
+    FB -- "Troll" --> Mossy;
+    Mossy{Mossy}-->Trollfish;
+    FB -- "Abomination" --> Sticky;
+    Sticky{Sticky}-->Herring[Giant Herring];
+    FB -- "Fenring" --> Cold;
+    Cold{Cold}-->Tetra;
+    FB -- "Fuling" --> Stingy;
+    Stingy{Stingy}-->Grouper;
+    FB -- "Serpent" --> HB;
+    HB{Heavy}-->Tuna;
+    HB{Heavy}-->Coral[Coral Cod];
+    FB -- "Lox" --> Misty;
+    Misty{Misty}-->Pufferfish;
+    Misty{Misty}-->Anglerfish;
+    FB -- "Surtling" --> Hot;
+    Hot{Hot}-->Magmafish;
+    FB -- "Drake" --> Frosty;
+    Frosty{Frosty}-->North[Northern Salmon];
+```
 
 
