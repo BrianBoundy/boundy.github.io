@@ -1,9 +1,5 @@
 ---
-layout: post
-key: blog
-title: "Generating Diagrams with Mermaid in Markdown"
-date: 2018-09-15
-tags: [Mermaid]
+title: "Valheim Main"
 mermaid: true
 ---
 # Goals
