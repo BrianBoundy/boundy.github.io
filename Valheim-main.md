@@ -62,7 +62,7 @@ https://valheim.fandom.com/wiki/Fish#Fish_types
 
 
 
-```mermaid
+{% mermaid %}
 flowchart LR;
     FB{Fishing Bait}-->Perch;
     FB{Fishing Bait}-->Pike;
@@ -84,6 +84,6 @@ flowchart LR;
     Hot{Hot}-->Magmafish;
     FB -- "Drake" --> Frosty;
     Frosty{Frosty}-->North[Northern Salmon];
-```
+{% endmermaid %}
 
 
