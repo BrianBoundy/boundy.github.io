@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+gems: [jekyll-mermaid]  
 remote_theme: pages-themes/midnight@v0.2.0
 relative_links:
   enabled: true
