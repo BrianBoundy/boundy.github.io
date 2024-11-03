@@ -1,8 +1,3 @@
----
-title: "Valheim"
----
-{% include _layouts/mermaid.html %}
-
 # Goals
 - [ ] Fisherman Hat
   - :black_square_button:Gizmo :black_square_button:Fartson :black_square_button:Gurtz
@@ -51,6 +46,7 @@ title: "Valheim"
 - [ ] Frozen Lake 
 
 # Fish and Bait
+https://valheim.fandom.com/wiki/Fish#Fish_types
 ![Fishing Bait](ValheimFishingBait.svg)
 
 
