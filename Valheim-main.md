@@ -1,3 +1,8 @@
+---
+title: "Valheim"
+---
+{% include mermaid.html %}
+
 # Goals
 - [ ] Fisherman Hat
   - :black_square_button:Gizmo :black_square_button:Fartson :black_square_button:Gurtz
