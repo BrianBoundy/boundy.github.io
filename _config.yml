@@ -14,3 +14,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+mermaid:
+  src: '/js/mermaid.js'
+  src_config: '/js/mermaid_config.js'
