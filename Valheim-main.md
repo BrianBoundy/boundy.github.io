@@ -58,7 +58,7 @@ https://valheim.fandom.com/wiki/Fish#Fish_types
 ![Fishing Bait](ValheimFishingBait.svg)
 
 <div class="mermaid">
-flowchart LR;
+  flowchart LR;
     FB{Fishing Bait}-->Perch;
     FB{Fishing Bait}-->Pike;
     FB -- "Troll" --> Mossy;
