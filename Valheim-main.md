@@ -48,7 +48,7 @@
 
 
 # Fish and Bait
-```mermaid
+<pre class="mermaid">
 flowchart LR;
     FB{Fishing Bait}-->Perch;
     FB{Fishing Bait}-->Pike;
@@ -70,6 +70,7 @@ flowchart LR;
     Hot{Hot}-->Magmafish;
     FB -- "Drake" --> Frosty;
     Frosty{Frosty}-->North[Northern Salmon];
-```  
+</pre>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
 
 :white_check_mark:
