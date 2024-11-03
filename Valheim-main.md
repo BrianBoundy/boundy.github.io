@@ -1,7 +1,7 @@
 ---
 title: "Valheim"
 ---
-{% include mermaid.html %}
+{% include _layouts/mermaid.html %}
 
 # Goals
 - [ ] Fisherman Hat
