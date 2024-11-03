@@ -54,6 +54,7 @@ https://valheim.fandom.com/wiki/Fish#Fish_types
 ![Fishing Bait](ValheimFishingBait.svg)
 
 ```mermaid
+
   flowchart LR;
     FB{Fishing Bait}-->Perch;
     FB{Fishing Bait}-->Pike;
