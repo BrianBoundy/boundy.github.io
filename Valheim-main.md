@@ -1,3 +1,11 @@
+---
+layout: post
+key: blog
+title: "Generating Diagrams with Mermaid in Markdown"
+date: 2018-09-15
+tags: [Mermaid]
+mermaid: true
+---
 # Goals
 - [ ] Fisherman Hat
   - :black_square_button:Gizmo :black_square_button:Fartson :black_square_button:Gurtz
