@@ -27,7 +27,6 @@ title: "Valheim Modpack"
 - Terrain Tools (Including Shovel)
 - Better Carts (Help by pushing)
 - Tree's Respawn
-- BACKPACKS
 
 
 
@@ -54,8 +53,11 @@ Reset Gizmo Rotation - V (Shift-V, CTRL-V)
 
 
 # First Time Setup
-For ultrawide users - edit com.riintouge.superultrawidesupport set AspectRatio = 32:9
 In game settings:
-Map Toggle Walk to ]
-Map auto-pickup to \
-Map Sit to L-Alt
+- Map Toggle Walk to ]
+- Map auto-pickup to \
+- Map Sit to L-Alt
+
+For ultrawide users:
+- edit com.riintouge.superultrawidesupport
+    - set AspectRatio = 32:9
