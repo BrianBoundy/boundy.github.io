@@ -27,6 +27,7 @@ title: "Valheim Modpack"
 - Terrain Tools (Including Shovel)
 - Better Carts (Help by pushing)
 - Tree's Respawn
+- Change Style of Existing Shield
 
 
 
@@ -42,14 +43,14 @@ title: "Valheim Modpack"
 
 
 # Controls
-Ping Location -> B
-Switch Weapon -> R
-Holster -> T
-QuickStack -> `
-Restock -> G
-ToggleManualClosestMode = CapsLock
-Hotkeys for invenotry Z,X,C
-Reset Gizmo Rotation - V (Shift-V, CTRL-V)
+- Ping Location -> B
+- Switch Weapon -> R
+- Holster -> T
+- QuickStack -> `
+- Restock -> G
+- ToggleManualClosestMode = CapsLock
+- Hotkeys for invenotry Z,X,C
+- Reset Gizmo Rotation - V (Shift-V, CTRL-V)
 
 
 # First Time Setup
