@@ -27,6 +27,7 @@ mermaid: true
   - [ ] Padded
   - [ ] Eitr-weave/Carapace
   - [ ] Embla/Ask/Flametal
+- [ ] Ranching 2 Star Wolf/Horse/Boar
 
 [//]: :white_check_mark: 
 
