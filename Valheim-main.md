@@ -7,9 +7,9 @@ Link to [modpack](Valheim-modpack.md)
 
 # Goals
 - [ ] Fisherman Hat
-  - :black_square_button:Gizmo :black_square_button:Fartson :black_square_button:Gurtz
+  - :black_square_button:Gizmo :black_square_button:Fartson :black_square_button:Gurtz :black_square_button:Natsu
 - [ ] 3x Dvergr tankards
-  - :black_square_button:Gizmo :black_square_button:Fartson :black_square_button:Gurtz
+  - :black_square_button:Gizmo :black_square_button:Fartson :black_square_button:Gurtz :black_square_button:Natsu
 - [ ] 5 Star Fish
   - :black_square_button:Perch :black_square_button:Pike :black_square_button:Tuna :black_square_button:Coral Cod :black_square_button:Trollfish :black_square_button:Giant Herring :black_square_button:Tetra :black_square_button:Grouper :black_square_button:Pufferfish :black_square_button:Anglerfish :black_square_button:Magmafish :black_square_button:Northen Salmon
 - [ ] Trophy Room
